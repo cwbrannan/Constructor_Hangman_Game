@@ -1,4 +1,4 @@
-//This hangman game is run, using the prompt npm package, from the node.js prompt.
+//This hangman game is run using the prompt npm package, from the node.js prompt.
 //Three files are used in this application. The word.js file, called in here, compares the letter guesses
 //to the letters in the words in the wordlist array. The choices.js file is required by the word.js file.
 
